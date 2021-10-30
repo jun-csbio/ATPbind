@@ -68,7 +68,7 @@ Note that, "xxx" should be the absolute path of the downloaed NCBI nr90 database
 
 ## Run the following commands to obtain the tips. 
 ~~~
-	$ cd ./ATPbind/jar
+  $ cd ./ATPbind/jar
   $ java -jar ATPbind.jar
 ~~~
 
